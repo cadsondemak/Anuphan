@@ -1,8 +1,0 @@
-sources:
-  - Anuphan.glyphs
-outputDir: "../Fonts"
-buildStatic: false
-buildVariable: true
-buildTTF: true
-buildOTF: false
-buildWebfont: false
